@@ -1,0 +1,2044 @@
+[
+  {
+    "date": 20210307,
+    "positive": 28756489,
+    "negative": 74582825,
+    "deaths": 515151
+  },
+  {
+    "date": 20210306,
+    "positive": 28714654,
+    "negative": 74450990,
+    "deaths": 514309
+  },
+  {
+    "date": 20210305,
+    "positive": 28654639,
+    "negative": 74307155,
+    "deaths": 512629
+  },
+  {
+    "date": 20210304,
+    "positive": 28585852,
+    "negative": 74035238,
+    "deaths": 510408
+  },
+  {
+    "date": 20210303,
+    "positive": 28520365,
+    "negative": 73857281,
+    "deaths": 508665
+  },
+  {
+    "date": 20210302,
+    "positive": 28453529,
+    "negative": 73590280,
+    "deaths": 506216
+  },
+  {
+    "date": 20210301,
+    "positive": 28399281,
+    "negative": 73334501,
+    "deaths": 504488
+  },
+  {
+    "date": 20210228,
+    "positive": 28351189,
+    "negative": 73216424,
+    "deaths": 503247
+  },
+  {
+    "date": 20210227,
+    "positive": 28296840,
+    "negative": 73012825,
+    "deaths": 502196
+  },
+  {
+    "date": 20210226,
+    "positive": 28225595,
+    "negative": 72807735,
+    "deaths": 500349
+  },
+  {
+    "date": 20210225,
+    "positive": 28150738,
+    "negative": 72530906,
+    "deaths": 498208
+  },
+  {
+    "date": 20210224,
+    "positive": 28075173,
+    "negative": 72258697,
+    "deaths": 495070
+  },
+  {
+    "date": 20210223,
+    "positive": 28001915,
+    "negative": 72013379,
+    "deaths": 492623
+  },
+  {
+    "date": 20210222,
+    "positive": 27932810,
+    "negative": 71788112,
+    "deaths": 490382
+  },
+  {
+    "date": 20210221,
+    "positive": 27880280,
+    "negative": 71664501,
+    "deaths": 489147
+  },
+  {
+    "date": 20210220,
+    "positive": 27821578,
+    "negative": 71507723,
+    "deaths": 487860
+  },
+  {
+    "date": 20210219,
+    "positive": 27749224,
+    "negative": 71365933,
+    "deaths": 485700
+  },
+  {
+    "date": 20210218,
+    "positive": 27674548,
+    "negative": 71141178,
+    "deaths": 483223
+  },
+  {
+    "date": 20210217,
+    "positive": 27607724,
+    "negative": 70922687,
+    "deaths": 480607
+  },
+  {
+    "date": 20210216,
+    "positive": 27540885,
+    "negative": 70689021,
+    "deaths": 478259
+  },
+  {
+    "date": 20210215,
+    "positive": 27484573,
+    "negative": 70587919,
+    "deaths": 476906
+  },
+  {
+    "date": 20210214,
+    "positive": 27429496,
+    "negative": 70444531,
+    "deaths": 475828
+  },
+  {
+    "date": 20210213,
+    "positive": 27357332,
+    "negative": 70272654,
+    "deaths": 474462
+  },
+  {
+    "date": 20210212,
+    "positive": 27266690,
+    "negative": 70038361,
+    "deaths": 470995
+  },
+  {
+    "date": 20210211,
+    "positive": 27165660,
+    "negative": 69782378,
+    "deaths": 465568
+  },
+  {
+    "date": 20210210,
+    "positive": 27063243,
+    "negative": 69522254,
+    "deaths": 461695
+  },
+  {
+    "date": 20210209,
+    "positive": 26968049,
+    "negative": 69366393,
+    "deaths": 458250
+  },
+  {
+    "date": 20210208,
+    "positive": 26875063,
+    "negative": 69029225,
+    "deaths": 455455
+  },
+  {
+    "date": 20210207,
+    "positive": 26797326,
+    "negative": 68887069,
+    "deaths": 454146
+  },
+  {
+    "date": 20210206,
+    "positive": 26701332,
+    "negative": 68678766,
+    "deaths": 452671
+  },
+  {
+    "date": 20210205,
+    "positive": 26586775,
+    "negative": 68396289,
+    "deaths": 449677
+  },
+  {
+    "date": 20210204,
+    "positive": 26455629,
+    "negative": 68125535,
+    "deaths": 446134
+  },
+  {
+    "date": 20210203,
+    "positive": 26331722,
+    "negative": 67908039,
+    "deaths": 440922
+  },
+  {
+    "date": 20210202,
+    "positive": 26214762,
+    "negative": 67683540,
+    "deaths": 437237
+  },
+  {
+    "date": 20210201,
+    "positive": 26097146,
+    "negative": 67516458,
+    "deaths": 433751
+  },
+  {
+    "date": 20210131,
+    "positive": 25976946,
+    "negative": 67171483,
+    "deaths": 432189
+  },
+  {
+    "date": 20210130,
+    "positive": 25857579,
+    "negative": 66946890,
+    "deaths": 430130
+  },
+  {
+    "date": 20210129,
+    "positive": 25708755,
+    "negative": 66714591,
+    "deaths": 427148
+  },
+  {
+    "date": 20210128,
+    "positive": 25541644,
+    "negative": 66430423,
+    "deaths": 423645
+  },
+  {
+    "date": 20210127,
+    "positive": 25384338,
+    "negative": 66160756,
+    "deaths": 419634
+  },
+  {
+    "date": 20210126,
+    "positive": 25230353,
+    "negative": 65916203,
+    "deaths": 415557
+  },
+  {
+    "date": 20210125,
+    "positive": 25083905,
+    "negative": 65538753,
+    "deaths": 411823
+  },
+  {
+    "date": 20210124,
+    "positive": 24950451,
+    "negative": 65321747,
+    "deaths": 410230
+  },
+  {
+    "date": 20210123,
+    "positive": 24806217,
+    "negative": 65098300,
+    "deaths": 408286
+  },
+  {
+    "date": 20210122,
+    "positive": 24629099,
+    "negative": 64823753,
+    "deaths": 404695
+  },
+  {
+    "date": 20210121,
+    "positive": 24438184,
+    "negative": 64539361,
+    "deaths": 400715
+  },
+  {
+    "date": 20210120,
+    "positive": 24251909,
+    "negative": 64271666,
+    "deaths": 396837
+  },
+  {
+    "date": 20210119,
+    "positive": 24062706,
+    "negative": 63929216,
+    "deaths": 392428
+  },
+  {
+    "date": 20210118,
+    "positive": 23916080,
+    "negative": 63599369,
+    "deaths": 390287
+  },
+  {
+    "date": 20210117,
+    "positive": 23765288,
+    "negative": 63406544,
+    "deaths": 388892
+  },
+  {
+    "date": 20210116,
+    "positive": 23578070,
+    "negative": 63128702,
+    "deaths": 386839
+  },
+  {
+    "date": 20210115,
+    "positive": 23359985,
+    "negative": 62902360,
+    "deaths": 383130
+  },
+  {
+    "date": 20210114,
+    "positive": 23113531,
+    "negative": 62491363,
+    "deaths": 379451
+  },
+  {
+    "date": 20210113,
+    "positive": 22887915,
+    "negative": 62185469,
+    "deaths": 375536
+  },
+  {
+    "date": 20210112,
+    "positive": 22663424,
+    "negative": 61947584,
+    "deaths": 371449
+  },
+  {
+    "date": 20210111,
+    "positive": 22445404,
+    "negative": 61503591,
+    "deaths": 367385
+  },
+  {
+    "date": 20210110,
+    "positive": 22250149,
+    "negative": 61292981,
+    "deaths": 365652
+  },
+  {
+    "date": 20210109,
+    "positive": 22021417,
+    "negative": 61022599,
+    "deaths": 363584
+  },
+  {
+    "date": 20210108,
+    "positive": 21752049,
+    "negative": 60732416,
+    "deaths": 360047
+  },
+  {
+    "date": 20210107,
+    "positive": 21456928,
+    "negative": 60412132,
+    "deaths": 356267
+  },
+  {
+    "date": 20210106,
+    "positive": 21184885,
+    "negative": 60165554,
+    "deaths": 352188
+  },
+  {
+    "date": 20210105,
+    "positive": 20934701,
+    "negative": 59902466,
+    "deaths": 348286
+  },
+  {
+    "date": 20210104,
+    "positive": 20715626,
+    "negative": 59422210,
+    "deaths": 344802
+  },
+  {
+    "date": 20210103,
+    "positive": 20536055,
+    "negative": 59273596,
+    "deaths": 343255
+  },
+  {
+    "date": 20210102,
+    "positive": 20327598,
+    "negative": 59058013,
+    "deaths": 341800
+  },
+  {
+    "date": 20210101,
+    "positive": 20047280,
+    "negative": 58836221,
+    "deaths": 339394
+  },
+  {
+    "date": 20201231,
+    "positive": 19864374,
+    "negative": 58644173,
+    "deaths": 336802
+  },
+  {
+    "date": 20201230,
+    "positive": 19638128,
+    "negative": 58381318,
+    "deaths": 333505
+  },
+  {
+    "date": 20201229,
+    "positive": 19408632,
+    "negative": 58166211,
+    "deaths": 329605
+  },
+  {
+    "date": 20201228,
+    "positive": 19208953,
+    "negative": 57964513,
+    "deaths": 326316
+  },
+  {
+    "date": 20201227,
+    "positive": 19044826,
+    "negative": 57654792,
+    "deaths": 324826
+  },
+  {
+    "date": 20201226,
+    "positive": 18891286,
+    "negative": 57450504,
+    "deaths": 323429
+  },
+  {
+    "date": 20201225,
+    "positive": 18700692,
+    "negative": 57235949,
+    "deaths": 322003
+  },
+  {
+    "date": 20201224,
+    "positive": 18573896,
+    "negative": 57065259,
+    "deaths": 320450
+  },
+  {
+    "date": 20201223,
+    "positive": 18367212,
+    "negative": 56743142,
+    "deaths": 317492
+  },
+  {
+    "date": 20201222,
+    "positive": 18142686,
+    "negative": 56438180,
+    "deaths": 314099
+  },
+  {
+    "date": 20201221,
+    "positive": 17949678,
+    "negative": 56170134,
+    "deaths": 310962
+  },
+  {
+    "date": 20201220,
+    "positive": 17770272,
+    "negative": 55730338,
+    "deaths": 309482
+  },
+  {
+    "date": 20201219,
+    "positive": 17572778,
+    "negative": 55481072,
+    "deaths": 307814
+  },
+  {
+    "date": 20201218,
+    "positive": 17367905,
+    "negative": 55280309,
+    "deaths": 305106
+  },
+  {
+    "date": 20201217,
+    "positive": 17126119,
+    "negative": 54829514,
+    "deaths": 302240
+  },
+  {
+    "date": 20201216,
+    "positive": 16883149,
+    "negative": 54583082,
+    "deaths": 298775
+  },
+  {
+    "date": 20201215,
+    "positive": 16648861,
+    "negative": 54279236,
+    "deaths": 295322
+  },
+  {
+    "date": 20201214,
+    "positive": 16455643,
+    "negative": 53962524,
+    "deaths": 292398
+  },
+  {
+    "date": 20201213,
+    "positive": 16262357,
+    "negative": 53506446,
+    "deaths": 291041
+  },
+  {
+    "date": 20201212,
+    "positive": 16075106,
+    "negative": 53206636,
+    "deaths": 289540
+  },
+  {
+    "date": 20201211,
+    "positive": 15848202,
+    "negative": 52980433,
+    "deaths": 287043
+  },
+  {
+    "date": 20201210,
+    "positive": 15611269,
+    "negative": 52629992,
+    "deaths": 284296
+  },
+  {
+    "date": 20201209,
+    "positive": 15390423,
+    "negative": 52318403,
+    "deaths": 281164
+  },
+  {
+    "date": 20201208,
+    "positive": 15173695,
+    "negative": 51940084,
+    "deaths": 277995
+  },
+  {
+    "date": 20201207,
+    "positive": 14955851,
+    "negative": 51647749,
+    "deaths": 275315
+  },
+  {
+    "date": 20201206,
+    "positive": 14773954,
+    "negative": 51378769,
+    "deaths": 274024
+  },
+  {
+    "date": 20201205,
+    "positive": 14591374,
+    "negative": 51079076,
+    "deaths": 272861
+  },
+  {
+    "date": 20201204,
+    "positive": 14372304,
+    "negative": 50722295,
+    "deaths": 270375
+  },
+  {
+    "date": 20201203,
+    "positive": 14141991,
+    "negative": 50411774,
+    "deaths": 267812
+  },
+  {
+    "date": 20201202,
+    "positive": 13925720,
+    "negative": 50105551,
+    "deaths": 264990
+  },
+  {
+    "date": 20201201,
+    "positive": 13722291,
+    "negative": 50764325,
+    "deaths": 262179
+  },
+  {
+    "date": 20201130,
+    "positive": 13541108,
+    "negative": 50500626,
+    "deaths": 259690
+  },
+  {
+    "date": 20201129,
+    "positive": 13391077,
+    "negative": 50156395,
+    "deaths": 258653
+  },
+  {
+    "date": 20201128,
+    "positive": 13253823,
+    "negative": 49929607,
+    "deaths": 257828
+  },
+  {
+    "date": 20201127,
+    "positive": 13102354,
+    "negative": 49605194,
+    "deaths": 256585
+  },
+  {
+    "date": 20201126,
+    "positive": 12903480,
+    "negative": 49220614,
+    "deaths": 255181
+  },
+  {
+    "date": 20201125,
+    "positive": 12773716,
+    "negative": 49040673,
+    "deaths": 253789
+  },
+  {
+    "date": 20201124,
+    "positive": 12585220,
+    "negative": 48646508,
+    "deaths": 251508
+  },
+  {
+    "date": 20201123,
+    "positive": 12418717,
+    "negative": 48285922,
+    "deaths": 249417
+  },
+  {
+    "date": 20201122,
+    "positive": 12264021,
+    "negative": 47954715,
+    "deaths": 248564
+  },
+  {
+    "date": 20201121,
+    "positive": 12109833,
+    "negative": 47580860,
+    "deaths": 247641
+  },
+  {
+    "date": 20201120,
+    "positive": 11923448,
+    "negative": 47204327,
+    "deaths": 246090
+  },
+  {
+    "date": 20201119,
+    "positive": 11726284,
+    "negative": 46756160,
+    "deaths": 244180
+  },
+  {
+    "date": 20201118,
+    "positive": 11538352,
+    "negative": 46431771,
+    "deaths": 242170
+  },
+  {
+    "date": 20201117,
+    "positive": 11370132,
+    "negative": 46084856,
+    "deaths": 240285
+  },
+  {
+    "date": 20201116,
+    "positive": 11210306,
+    "negative": 45784358,
+    "deaths": 238732
+  },
+  {
+    "date": 20201115,
+    "positive": 11060329,
+    "negative": 45534900,
+    "deaths": 238125
+  },
+  {
+    "date": 20201114,
+    "positive": 10913267,
+    "negative": 45134549,
+    "deaths": 237413
+  },
+  {
+    "date": 20201113,
+    "positive": 10745541,
+    "negative": 44834103,
+    "deaths": 236060
+  },
+  {
+    "date": 20201112,
+    "positive": 10570908,
+    "negative": 44502129,
+    "deaths": 234759
+  },
+  {
+    "date": 20201111,
+    "positive": 10413366,
+    "negative": 44230579,
+    "deaths": 233647
+  },
+  {
+    "date": 20201110,
+    "positive": 10264033,
+    "negative": 43947336,
+    "deaths": 232070
+  },
+  {
+    "date": 20201109,
+    "positive": 10128464,
+    "negative": 43743959,
+    "deaths": 230712
+  },
+  {
+    "date": 20201108,
+    "positive": 10010061,
+    "negative": 43460293,
+    "deaths": 230135
+  },
+  {
+    "date": 20201107,
+    "positive": 9897616,
+    "negative": 43220658,
+    "deaths": 229622
+  },
+  {
+    "date": 20201106,
+    "positive": 9765503,
+    "negative": 42862789,
+    "deaths": 228497
+  },
+  {
+    "date": 20201105,
+    "positive": 9635513,
+    "negative": 42548344,
+    "deaths": 227312
+  },
+  {
+    "date": 20201104,
+    "positive": 9516490,
+    "negative": 42245917,
+    "deaths": 226158
+  },
+  {
+    "date": 20201103,
+    "positive": 9410494,
+    "negative": 42043319,
+    "deaths": 225027
+  },
+  {
+    "date": 20201102,
+    "positive": 9290545,
+    "negative": 41787471,
+    "deaths": 223510
+  },
+  {
+    "date": 20201101,
+    "positive": 9207091,
+    "negative": 41504027,
+    "deaths": 223035
+  },
+  {
+    "date": 20201031,
+    "positive": 9065117,
+    "negative": 41275424,
+    "deaths": 222625
+  },
+  {
+    "date": 20201030,
+    "positive": 8973824,
+    "negative": 40949659,
+    "deaths": 221667
+  },
+  {
+    "date": 20201029,
+    "positive": 8875882,
+    "negative": 40742964,
+    "deaths": 220720
+  },
+  {
+    "date": 20201028,
+    "positive": 8786517,
+    "negative": 40425870,
+    "deaths": 219660
+  },
+  {
+    "date": 20201027,
+    "positive": 8706817,
+    "negative": 40159937,
+    "deaths": 218613
+  },
+  {
+    "date": 20201026,
+    "positive": 8634562,
+    "negative": 39939297,
+    "deaths": 217691
+  },
+  {
+    "date": 20201025,
+    "positive": 8571132,
+    "negative": 39671263,
+    "deaths": 217294
+  },
+  {
+    "date": 20201024,
+    "positive": 8506661,
+    "negative": 39402583,
+    "deaths": 216903
+  },
+  {
+    "date": 20201023,
+    "positive": 8422869,
+    "negative": 39142812,
+    "deaths": 216007
+  },
+  {
+    "date": 20201022,
+    "positive": 8340294,
+    "negative": 38837959,
+    "deaths": 215058
+  },
+  {
+    "date": 20201021,
+    "positive": 8268021,
+    "negative": 38536182,
+    "deaths": 213964
+  },
+  {
+    "date": 20201020,
+    "positive": 8205165,
+    "negative": 38334630,
+    "deaths": 212913
+  },
+  {
+    "date": 20201019,
+    "positive": 8144591,
+    "negative": 38133111,
+    "deaths": 212080
+  },
+  {
+    "date": 20201018,
+    "positive": 8086941,
+    "negative": 37785642,
+    "deaths": 211637
+  },
+  {
+    "date": 20201017,
+    "positive": 8038984,
+    "negative": 37591664,
+    "deaths": 211232
+  },
+  {
+    "date": 20201016,
+    "positive": 7981309,
+    "negative": 37331107,
+    "deaths": 210452
+  },
+  {
+    "date": 20201015,
+    "positive": 7912804,
+    "negative": 37058663,
+    "deaths": 209561
+  },
+  {
+    "date": 20201014,
+    "positive": 7849163,
+    "negative": 36795408,
+    "deaths": 208633
+  },
+  {
+    "date": 20201013,
+    "positive": 7791923,
+    "negative": 36651298,
+    "deaths": 207832
+  },
+  {
+    "date": 20201012,
+    "positive": 7745009,
+    "negative": 36440897,
+    "deaths": 207114
+  },
+  {
+    "date": 20201011,
+    "positive": 7701761,
+    "negative": 36227595,
+    "deaths": 206830
+  },
+  {
+    "date": 20201010,
+    "positive": 7655038,
+    "negative": 36006859,
+    "deaths": 206358
+  },
+  {
+    "date": 20201009,
+    "positive": 7597495,
+    "negative": 35710663,
+    "deaths": 205668
+  },
+  {
+    "date": 20201008,
+    "positive": 7540410,
+    "negative": 35427873,
+    "deaths": 204754
+  },
+  {
+    "date": 20201007,
+    "positive": 7485102,
+    "negative": 35420950,
+    "deaths": 203775
+  },
+  {
+    "date": 20201006,
+    "positive": 7433886,
+    "negative": 35188676,
+    "deaths": 202846
+  },
+  {
+    "date": 20201005,
+    "positive": 7395040,
+    "negative": 35003573,
+    "deaths": 202233
+  },
+  {
+    "date": 20201004,
+    "positive": 7357288,
+    "negative": 34760024,
+    "deaths": 201902
+  },
+  {
+    "date": 20201003,
+    "positive": 7319123,
+    "negative": 34461789,
+    "deaths": 201522
+  },
+  {
+    "date": 20201002,
+    "positive": 7268249,
+    "negative": 34279219,
+    "deaths": 200784
+  },
+  {
+    "date": 20201001,
+    "positive": 7218822,
+    "negative": 33967631,
+    "deaths": 199942
+  },
+  {
+    "date": 20200930,
+    "positive": 7173102,
+    "negative": 33752797,
+    "deaths": 199080
+  },
+  {
+    "date": 20200929,
+    "positive": 7128193,
+    "negative": 33525821,
+    "deaths": 198016
+  },
+  {
+    "date": 20200928,
+    "positive": 7091427,
+    "negative": 33321891,
+    "deaths": 197292
+  },
+  {
+    "date": 20200927,
+    "positive": 7056051,
+    "negative": 33063497,
+    "deaths": 197046
+  },
+  {
+    "date": 20200926,
+    "positive": 7021061,
+    "negative": 32870381,
+    "deaths": 196736
+  },
+  {
+    "date": 20200925,
+    "positive": 6973834,
+    "negative": 32609649,
+    "deaths": 195863
+  },
+  {
+    "date": 20200924,
+    "positive": 6918556,
+    "negative": 32319146,
+    "deaths": 195016
+  },
+  {
+    "date": 20200923,
+    "positive": 6875215,
+    "negative": 32064596,
+    "deaths": 194078
+  },
+  {
+    "date": 20200922,
+    "positive": 6835717,
+    "negative": 31840636,
+    "deaths": 192922
+  },
+  {
+    "date": 20200921,
+    "positive": 6786731,
+    "negative": 31582537,
+    "deaths": 192063
+  },
+  {
+    "date": 20200920,
+    "positive": 6747569,
+    "negative": 31435785,
+    "deaths": 191782
+  },
+  {
+    "date": 20200919,
+    "positive": 6712036,
+    "negative": 31169829,
+    "deaths": 191455
+  },
+  {
+    "date": 20200918,
+    "positive": 6666368,
+    "negative": 30890761,
+    "deaths": 190708
+  },
+  {
+    "date": 20200917,
+    "positive": 6619479,
+    "negative": 30613715,
+    "deaths": 189807
+  },
+  {
+    "date": 20200916,
+    "positive": 6575837,
+    "negative": 30368264,
+    "deaths": 188927
+  },
+  {
+    "date": 20200915,
+    "positive": 6535518,
+    "negative": 30185904,
+    "deaths": 187737
+  },
+  {
+    "date": 20200914,
+    "positive": 6500740,
+    "negative": 29969089,
+    "deaths": 186703
+  },
+  {
+    "date": 20200913,
+    "positive": 6467168,
+    "negative": 29770264,
+    "deaths": 186296
+  },
+  {
+    "date": 20200912,
+    "positive": 6432589,
+    "negative": 29543917,
+    "deaths": 185904
+  },
+  {
+    "date": 20200911,
+    "positive": 6390739,
+    "negative": 29316279,
+    "deaths": 185087
+  },
+  {
+    "date": 20200910,
+    "positive": 6346041,
+    "negative": 29071387,
+    "deaths": 184072
+  },
+  {
+    "date": 20200909,
+    "positive": 6308655,
+    "negative": 28875758,
+    "deaths": 182911
+  },
+  {
+    "date": 20200908,
+    "positive": 6277899,
+    "negative": 28682346,
+    "deaths": 181823
+  },
+  {
+    "date": 20200907,
+    "positive": 6255589,
+    "negative": 28559056,
+    "deaths": 181476
+  },
+  {
+    "date": 20200906,
+    "positive": 6227472,
+    "negative": 28367181,
+    "deaths": 181249
+  },
+  {
+    "date": 20200905,
+    "positive": 6194439,
+    "negative": 28161047,
+    "deaths": 180797
+  },
+  {
+    "date": 20200904,
+    "positive": 6149579,
+    "negative": 27942511,
+    "deaths": 179871
+  },
+  {
+    "date": 20200903,
+    "positive": 6097979,
+    "negative": 27686000,
+    "deaths": 178872
+  },
+  {
+    "date": 20200902,
+    "positive": 6053348,
+    "negative": 27458919,
+    "deaths": 177800
+  },
+  {
+    "date": 20200901,
+    "positive": 6022681,
+    "negative": 27247822,
+    "deaths": 176765
+  },
+  {
+    "date": 20200831,
+    "positive": 5980439,
+    "negative": 27068612,
+    "deaths": 175751
+  },
+  {
+    "date": 20200830,
+    "positive": 5948719,
+    "negative": 26887884,
+    "deaths": 175371
+  },
+  {
+    "date": 20200829,
+    "positive": 5909953,
+    "negative": 26667080,
+    "deaths": 174894
+  },
+  {
+    "date": 20200828,
+    "positive": 5865958,
+    "negative": 26409914,
+    "deaths": 173877
+  },
+  {
+    "date": 20200827,
+    "positive": 5819843,
+    "negative": 26185279,
+    "deaths": 172857
+  },
+  {
+    "date": 20200826,
+    "positive": 5775732,
+    "negative": 25941680,
+    "deaths": 171729
+  },
+  {
+    "date": 20200825,
+    "positive": 5731401,
+    "negative": 25725096,
+    "deaths": 170429
+  },
+  {
+    "date": 20200824,
+    "positive": 5694562,
+    "negative": 25500592,
+    "deaths": 169289
+  },
+  {
+    "date": 20200823,
+    "positive": 5660019,
+    "negative": 25280953,
+    "deaths": 168948
+  },
+  {
+    "date": 20200822,
+    "positive": 5622119,
+    "negative": 25152471,
+    "deaths": 168371
+  },
+  {
+    "date": 20200821,
+    "positive": 5576086,
+    "negative": 24925819,
+    "deaths": 167336
+  },
+  {
+    "date": 20200820,
+    "positive": 5529609,
+    "negative": 24671146,
+    "deaths": 166217
+  },
+  {
+    "date": 20200819,
+    "positive": 5485765,
+    "negative": 24462674,
+    "deaths": 165088
+  },
+  {
+    "date": 20200818,
+    "positive": 5440692,
+    "negative": 24219442,
+    "deaths": 163677
+  },
+  {
+    "date": 20200817,
+    "positive": 5400622,
+    "negative": 24013625,
+    "deaths": 162498
+  },
+  {
+    "date": 20200816,
+    "positive": 5362871,
+    "negative": 23826651,
+    "deaths": 162087
+  },
+  {
+    "date": 20200815,
+    "positive": 5320368,
+    "negative": 23568460,
+    "deaths": 161470
+  },
+  {
+    "date": 20200814,
+    "positive": 5264365,
+    "negative": 23318852,
+    "deaths": 160243
+  },
+  {
+    "date": 20200813,
+    "positive": 5207221,
+    "negative": 23010089,
+    "deaths": 159017
+  },
+  {
+    "date": 20200812,
+    "positive": 5155458,
+    "negative": 22753455,
+    "deaths": 157854
+  },
+  {
+    "date": 20200811,
+    "positive": 5099272,
+    "negative": 22517903,
+    "deaths": 156337
+  },
+  {
+    "date": 20200810,
+    "positive": 5044337,
+    "negative": 22287303,
+    "deaths": 155017
+  },
+  {
+    "date": 20200809,
+    "positive": 5002967,
+    "negative": 22076979,
+    "deaths": 154587
+  },
+  {
+    "date": 20200808,
+    "positive": 4952201,
+    "negative": 21816395,
+    "deaths": 153966
+  },
+  {
+    "date": 20200807,
+    "positive": 4898709,
+    "negative": 21624516,
+    "deaths": 152880
+  },
+  {
+    "date": 20200806,
+    "positive": 4837872,
+    "negative": 21360543,
+    "deaths": 151558
+  },
+  {
+    "date": 20200805,
+    "positive": 4783827,
+    "negative": 21093702,
+    "deaths": 150316
+  },
+  {
+    "date": 20200804,
+    "positive": 4731136,
+    "negative": 20861692,
+    "deaths": 148962
+  },
+  {
+    "date": 20200803,
+    "positive": 4679931,
+    "negative": 20625354,
+    "deaths": 147720
+  },
+  {
+    "date": 20200802,
+    "positive": 4637188,
+    "negative": 20416372,
+    "deaths": 147204
+  },
+  {
+    "date": 20200801,
+    "positive": 4583866,
+    "negative": 20164047,
+    "deaths": 146708
+  },
+  {
+    "date": 20200731,
+    "positive": 4523226,
+    "negative": 19932106,
+    "deaths": 145507
+  },
+  {
+    "date": 20200730,
+    "positive": 4455391,
+    "negative": 19833148,
+    "deaths": 144183
+  },
+  {
+    "date": 20200729,
+    "positive": 4386412,
+    "negative": 19571749,
+    "deaths": 142933
+  },
+  {
+    "date": 20200728,
+    "positive": 4322256,
+    "negative": 19284371,
+    "deaths": 141428
+  },
+  {
+    "date": 20200727,
+    "positive": 4263804,
+    "negative": 19050243,
+    "deaths": 140317
+  },
+  {
+    "date": 20200726,
+    "positive": 4209320,
+    "negative": 18807242,
+    "deaths": 139251
+  },
+  {
+    "date": 20200725,
+    "positive": 4148552,
+    "negative": 18517095,
+    "deaths": 138690
+  },
+  {
+    "date": 20200724,
+    "positive": 4083764,
+    "negative": 18236870,
+    "deaths": 137678
+  },
+  {
+    "date": 20200723,
+    "positive": 4008669,
+    "negative": 17925103,
+    "deaths": 136504
+  },
+  {
+    "date": 20200722,
+    "positive": 3937243,
+    "negative": 17611606,
+    "deaths": 135433
+  },
+  {
+    "date": 20200721,
+    "positive": 3867801,
+    "negative": 17349125,
+    "deaths": 134284
+  },
+  {
+    "date": 20200720,
+    "positive": 3804914,
+    "negative": 17108860,
+    "deaths": 133241
+  },
+  {
+    "date": 20200719,
+    "positive": 3748205,
+    "negative": 16860967,
+    "deaths": 132865
+  },
+  {
+    "date": 20200718,
+    "positive": 3683998,
+    "negative": 16595467,
+    "deaths": 132339
+  },
+  {
+    "date": 20200717,
+    "positive": 3619225,
+    "negative": 16380380,
+    "deaths": 131462
+  },
+  {
+    "date": 20200716,
+    "positive": 3542727,
+    "negative": 16104357,
+    "deaths": 130524
+  },
+  {
+    "date": 20200715,
+    "positive": 3472234,
+    "negative": 15816629,
+    "deaths": 129584
+  },
+  {
+    "date": 20200714,
+    "positive": 3402862,
+    "negative": 15548344,
+    "deaths": 128720
+  },
+  {
+    "date": 20200713,
+    "positive": 3344244,
+    "negative": 15288822,
+    "deaths": 127978
+  },
+  {
+    "date": 20200712,
+    "positive": 3287100,
+    "negative": 15063871,
+    "deaths": 127649
+  },
+  {
+    "date": 20200711,
+    "positive": 3225498,
+    "negative": 14799869,
+    "deaths": 127178
+  },
+  {
+    "date": 20200710,
+    "positive": 3162914,
+    "negative": 14535139,
+    "deaths": 126425
+  },
+  {
+    "date": 20200709,
+    "positive": 3095806,
+    "negative": 14246666,
+    "deaths": 125584
+  },
+  {
+    "date": 20200708,
+    "positive": 3036743,
+    "negative": 13962460,
+    "deaths": 124722
+  },
+  {
+    "date": 20200707,
+    "positive": 2973928,
+    "negative": 13750803,
+    "deaths": 123903
+  },
+  {
+    "date": 20200706,
+    "positive": 2922937,
+    "negative": 13544258,
+    "deaths": 122997
+  },
+  {
+    "date": 20200705,
+    "positive": 2882035,
+    "negative": 13371517,
+    "deaths": 122764
+  },
+  {
+    "date": 20200704,
+    "positive": 2836661,
+    "negative": 13158631,
+    "deaths": 122550
+  },
+  {
+    "date": 20200703,
+    "positive": 2781815,
+    "negative": 12948963,
+    "deaths": 122255
+  },
+  {
+    "date": 20200702,
+    "positive": 2727601,
+    "negative": 12701762,
+    "deaths": 121653
+  },
+  {
+    "date": 20200701,
+    "positive": 2674090,
+    "negative": 12472357,
+    "deaths": 120954
+  },
+  {
+    "date": 20200630,
+    "positive": 2623046,
+    "negative": 12247882,
+    "deaths": 120258
+  },
+  {
+    "date": 20200629,
+    "positive": 2576014,
+    "negative": 12021777,
+    "deaths": 119675
+  },
+  {
+    "date": 20200628,
+    "positive": 2536646,
+    "negative": 11776058,
+    "deaths": 119339
+  },
+  {
+    "date": 20200627,
+    "positive": 2494917,
+    "negative": 11548205,
+    "deaths": 119068
+  },
+  {
+    "date": 20200626,
+    "positive": 2451813,
+    "negative": 11330989,
+    "deaths": 118558
+  },
+  {
+    "date": 20200625,
+    "positive": 2407513,
+    "negative": 11112300,
+    "deaths": 117950
+  },
+  {
+    "date": 20200624,
+    "positive": 2367793,
+    "negative": 10864232,
+    "deaths": 117296
+  },
+  {
+    "date": 20200623,
+    "positive": 2328662,
+    "negative": 10679273,
+    "deaths": 116592
+  },
+  {
+    "date": 20200622,
+    "positive": 2295216,
+    "negative": 10506682,
+    "deaths": 115864
+  },
+  {
+    "date": 20200621,
+    "positive": 2268399,
+    "negative": 10343038,
+    "deaths": 115576
+  },
+  {
+    "date": 20200620,
+    "positive": 2239217,
+    "negative": 10167508,
+    "deaths": 115285
+  },
+  {
+    "date": 20200619,
+    "positive": 2206985,
+    "negative": 9970283,
+    "deaths": 114674
+  },
+  {
+    "date": 20200618,
+    "positive": 2176098,
+    "negative": 9735467,
+    "deaths": 114017
+  },
+  {
+    "date": 20200617,
+    "positive": 2149114,
+    "negative": 9543899,
+    "deaths": 113338
+  },
+  {
+    "date": 20200616,
+    "positive": 2124908,
+    "negative": 9348637,
+    "deaths": 112560
+  },
+  {
+    "date": 20200615,
+    "positive": 2102051,
+    "negative": 9173553,
+    "deaths": 111834
+  },
+  {
+    "date": 20200614,
+    "positive": 2083815,
+    "negative": 9008042,
+    "deaths": 111451
+  },
+  {
+    "date": 20200613,
+    "positive": 2062186,
+    "negative": 8840278,
+    "deaths": 111097
+  },
+  {
+    "date": 20200612,
+    "positive": 2036727,
+    "negative": 8641463,
+    "deaths": 110407
+  },
+  {
+    "date": 20200611,
+    "positive": 2013575,
+    "negative": 8413141,
+    "deaths": 109641
+  },
+  {
+    "date": 20200610,
+    "positive": 1991599,
+    "negative": 8262747,
+    "deaths": 108745
+  },
+  {
+    "date": 20200609,
+    "positive": 1970726,
+    "negative": 8094168,
+    "deaths": 107853
+  },
+  {
+    "date": 20200608,
+    "positive": 1953793,
+    "negative": 7938882,
+    "deaths": 106959
+  },
+  {
+    "date": 20200607,
+    "positive": 1936858,
+    "negative": 7806568,
+    "deaths": 106287
+  },
+  {
+    "date": 20200606,
+    "positive": 1917778,
+    "negative": 7616701,
+    "deaths": 105837
+  },
+  {
+    "date": 20200605,
+    "positive": 1895109,
+    "negative": 7394838,
+    "deaths": 105128
+  },
+  {
+    "date": 20200604,
+    "positive": 1872063,
+    "negative": 7162636,
+    "deaths": 104296
+  },
+  {
+    "date": 20200603,
+    "positive": 1851551,
+    "negative": 6978667,
+    "deaths": 103414
+  },
+  {
+    "date": 20200602,
+    "positive": 1831387,
+    "negative": 6794045,
+    "deaths": 102441
+  },
+  {
+    "date": 20200601,
+    "positive": 1811478,
+    "negative": 6632978,
+    "deaths": 101459
+  },
+  {
+    "date": 20200531,
+    "positive": 1791449,
+    "negative": 6475080,
+    "deaths": 100783
+  },
+  {
+    "date": 20200530,
+    "positive": 1769755,
+    "negative": 6327092,
+    "deaths": 100129
+  },
+  {
+    "date": 20200529,
+    "positive": 1746212,
+    "negative": 6152833,
+    "deaths": 99208
+  },
+  {
+    "date": 20200528,
+    "positive": 1722588,
+    "negative": 5963050,
+    "deaths": 98037
+  },
+  {
+    "date": 20200527,
+    "positive": 1699744,
+    "negative": 5774936,
+    "deaths": 96802
+  },
+  {
+    "date": 20200526,
+    "positive": 1680551,
+    "negative": 5623724,
+    "deaths": 95462
+  },
+  {
+    "date": 20200525,
+    "positive": 1663875,
+    "negative": 5511820,
+    "deaths": 94794
+  },
+  {
+    "date": 20200524,
+    "positive": 1645332,
+    "negative": 5344083,
+    "deaths": 94238
+  },
+  {
+    "date": 20200523,
+    "positive": 1626210,
+    "negative": 5214235,
+    "deaths": 93549
+  },
+  {
+    "date": 20200522,
+    "positive": 1603728,
+    "negative": 5098634,
+    "deaths": 92514
+  },
+  {
+    "date": 20200521,
+    "positive": 1579601,
+    "negative": 4925365,
+    "deaths": 91228
+  },
+  {
+    "date": 20200520,
+    "positive": 1552850,
+    "negative": 4706173,
+    "deaths": 89847
+  },
+  {
+    "date": 20200519,
+    "positive": 1531479,
+    "negative": 4538444,
+    "deaths": 88452
+  },
+  {
+    "date": 20200518,
+    "positive": 1510779,
+    "negative": 4375664,
+    "deaths": 87125
+  },
+  {
+    "date": 20200517,
+    "positive": 1490166,
+    "negative": 4243900,
+    "deaths": 86272
+  },
+  {
+    "date": 20200516,
+    "positive": 1469782,
+    "negative": 4105783,
+    "deaths": 85410
+  },
+  {
+    "date": 20200515,
+    "positive": 1445947,
+    "negative": 3973416,
+    "deaths": 84161
+  },
+  {
+    "date": 20200514,
+    "positive": 1420540,
+    "negative": 3853158,
+    "deaths": 82624
+  },
+  {
+    "date": 20200513,
+    "positive": 1393744,
+    "negative": 3714514,
+    "deaths": 80778
+  },
+  {
+    "date": 20200512,
+    "positive": 1372263,
+    "negative": 3597496,
+    "deaths": 79049
+  },
+  {
+    "date": 20200511,
+    "positive": 1349742,
+    "negative": 3487325,
+    "deaths": 77531
+  },
+  {
+    "date": 20200510,
+    "positive": 1331662,
+    "negative": 3278160,
+    "deaths": 76642
+  },
+  {
+    "date": 20200509,
+    "positive": 1310550,
+    "negative": 3186631,
+    "deaths": 75615
+  },
+  {
+    "date": 20200508,
+    "positive": 1285270,
+    "negative": 3075820,
+    "deaths": 74156
+  },
+  {
+    "date": 20200507,
+    "positive": 1258072,
+    "negative": 2971098,
+    "deaths": 72368
+  },
+  {
+    "date": 20200506,
+    "positive": 1230844,
+    "negative": 2876361,
+    "deaths": 69636
+  },
+  {
+    "date": 20200505,
+    "positive": 1205532,
+    "negative": 2777818,
+    "deaths": 67705
+  },
+  {
+    "date": 20200504,
+    "positive": 1183140,
+    "negative": 2672124,
+    "deaths": 65209
+  },
+  {
+    "date": 20200503,
+    "positive": 1161034,
+    "negative": 2585233,
+    "deaths": 64226
+  },
+  {
+    "date": 20200502,
+    "positive": 1135275,
+    "negative": 2491161,
+    "deaths": 62979
+  },
+  {
+    "date": 20200501,
+    "positive": 1106124,
+    "negative": 2410267,
+    "deaths": 61458
+  },
+  {
+    "date": 20200430,
+    "positive": 1073244,
+    "negative": 2303609,
+    "deaths": 59646
+  },
+  {
+    "date": 20200429,
+    "positive": 1043181,
+    "negative": 2224039,
+    "deaths": 57493
+  },
+  {
+    "date": 20200428,
+    "positive": 1017002,
+    "negative": 2134963,
+    "deaths": 54804
+  },
+  {
+    "date": 20200427,
+    "positive": 991770,
+    "negative": 2065461,
+    "deaths": 52726
+  },
+  {
+    "date": 20200426,
+    "positive": 969366,
+    "negative": 2003045,
+    "deaths": 51452
+  },
+  {
+    "date": 20200425,
+    "positive": 942042,
+    "negative": 1927783,
+    "deaths": 50240
+  },
+  {
+    "date": 20200424,
+    "positive": 901345,
+    "negative": 1807700,
+    "deaths": 48606
+  },
+  {
+    "date": 20200423,
+    "positive": 870128,
+    "negative": 1732188,
+    "deaths": 46633
+  },
+  {
+    "date": 20200422,
+    "positive": 838190,
+    "negative": 1667505,
+    "deaths": 44827
+  },
+  {
+    "date": 20200421,
+    "positive": 808917,
+    "negative": 1881486,
+    "deaths": 42677
+  },
+  {
+    "date": 20200420,
+    "positive": 781563,
+    "negative": 1812381,
+    "deaths": 40199
+  },
+  {
+    "date": 20200419,
+    "positive": 757187,
+    "negative": 1748803,
+    "deaths": 38385
+  },
+  {
+    "date": 20200418,
+    "positive": 730257,
+    "negative": 1680587,
+    "deaths": 36620
+  },
+  {
+    "date": 20200417,
+    "positive": 702684,
+    "negative": 1611126,
+    "deaths": 34724
+  },
+  {
+    "date": 20200416,
+    "positive": 671184,
+    "negative": 1543524,
+    "deaths": 32608
+  },
+  {
+    "date": 20200415,
+    "positive": 639918,
+    "negative": 1464212,
+    "deaths": 30412
+  },
+  {
+    "date": 20200414,
+    "positive": 610084,
+    "negative": 1406727,
+    "deaths": 27871
+  },
+  {
+    "date": 20200413,
+    "positive": 584141,
+    "negative": 1333459,
+    "deaths": 25515
+  },
+  {
+    "date": 20200412,
+    "positive": 560005,
+    "negative": 1276163,
+    "deaths": 23885
+  },
+  {
+    "date": 20200411,
+    "positive": 531837,
+    "negative": 1208805,
+    "deaths": 22187
+  },
+  {
+    "date": 20200410,
+    "positive": 500514,
+    "negative": 1144432,
+    "deaths": 20108
+  },
+  {
+    "date": 20200409,
+    "positive": 466736,
+    "negative": 1088216,
+    "deaths": 18027
+  },
+  {
+    "date": 20200408,
+    "positive": 431744,
+    "negative": 1005485,
+    "deaths": 15973
+  },
+  { "date": 20200407, "positive": 400780, "negative": 937451, "deaths": 13974 },
+  { "date": 20200406, "positive": 370364, "negative": 858440, "deaths": 11932 },
+  { "date": 20200405, "positive": 342104, "negative": 788594, "deaths": 10618 },
+  { "date": 20200404, "positive": 316261, "negative": 754973, "deaths": 9278 },
+  { "date": 20200403, "positive": 283139, "negative": 611448, "deaths": 7800 },
+  { "date": 20200402, "positive": 251304, "negative": 556688, "deaths": 6512 },
+  { "date": 20200401, "positive": 223169, "negative": 505283, "deaths": 5337 },
+  { "date": 20200331, "positive": 196965, "negative": 460602, "deaths": 4331 },
+  { "date": 20200330, "positive": 171965, "negative": 416268, "deaths": 3422 },
+  { "date": 20200329, "positive": 150826, "negative": 366103, "deaths": 2838 },
+  { "date": 20200328, "positive": 131143, "negative": 324271, "deaths": 2332 },
+  { "date": 20200327, "positive": 111358, "negative": 255808, "deaths": 1782 },
+  { "date": 20200326, "positive": 92143, "negative": 210652, "deaths": 1371 },
+  { "date": 20200325, "positive": 74551, "negative": 168293, "deaths": 1058 },
+  { "date": 20200324, "positive": 61894, "negative": 135287, "deaths": 817 },
+  { "date": 20200323, "positive": 50998, "negative": 101340, "deaths": 582 },
+  { "date": 20200322, "positive": 39808, "negative": 80231, "deaths": 480 },
+  { "date": 20200321, "positive": 30580, "negative": 67803, "deaths": 335 },
+  { "date": 20200320, "positive": 23640, "negative": 51743, "deaths": 273 },
+  { "date": 20200319, "positive": 17540, "negative": 39938, "deaths": 203 },
+  { "date": 20200318, "positive": 12934, "negative": 31577, "deaths": 152 },
+  { "date": 20200317, "positive": 9577, "negative": 26183, "deaths": 126 },
+  { "date": 20200316, "positive": 7449, "negative": 20327, "deaths": 102 },
+  { "date": 20200315, "positive": 5738, "negative": 9396, "deaths": 80 },
+  { "date": 20200314, "positive": 4476, "negative": 7409, "deaths": 65 },
+  { "date": 20200313, "positive": 3450, "negative": 5533, "deaths": 57 },
+  { "date": 20200312, "positive": 2592, "negative": 4292, "deaths": 52 },
+  { "date": 20200311, "positive": 1915, "negative": 3301, "deaths": 43 },
+  { "date": 20200310, "positive": 1497, "negative": 2280, "deaths": 37 },
+  { "date": 20200309, "positive": 1061, "negative": 1786, "deaths": 35 },
+  { "date": 20200308, "positive": 757, "negative": 1344, "deaths": 31 },
+  { "date": 20200307, "positive": 587, "negative": 1148, "deaths": 27 },
+  { "date": 20200306, "positive": 445, "negative": 874, "deaths": 26 },
+  { "date": 20200305, "positive": 307, "negative": 713, "deaths": 20 },
+  { "date": 20200304, "positive": 242, "negative": 581, "deaths": 16 },
+  { "date": 20200303, "positive": 114, "negative": 5, "deaths": 14 },
+  { "date": 20200302, "positive": 72, "negative": 3, "deaths": 11 },
+  { "date": 20200301, "positive": 42, "negative": 2, "deaths": 8 }
+]
